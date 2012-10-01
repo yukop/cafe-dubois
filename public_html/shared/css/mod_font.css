@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+/*font-family*/
+
+body{
+	font-family: verdana, sans-serif;
+}
+
+pre{
+	font-family: monospace;
+}
+
+/*font-size*/
+
+body{
+	font-size: 13px;
+	/*\*/
+	*font-size: 81.25%;
+	/**/
+}
+
+h1{
+	font-size: 130%;
+}
+h2{
+	font-size: 115%;
+}
+h3,
+h4,
+h5{
+	font-size: 100%;
+}
+
+address{
+	font-size: 96%;
+}
+
+/*font-weight*/
+
+h4,
+h5,
+h6{
+	font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+#body dl dt{
+	font-weight: bold;
+}
+
+/*font-style*/
+address{
+	font-style: normal;
+}
+
+
+
+/*line-height*/
+
+body{
+	line-height: 1.6;
+}
